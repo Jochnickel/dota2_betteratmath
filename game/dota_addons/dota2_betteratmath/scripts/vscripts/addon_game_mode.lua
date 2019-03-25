@@ -21,4 +21,4 @@ function CAddonTemplateGameMode:InitGameMode()
 		GameRules:GetGameModeEntity():SetCustomGameForceHero("npc_dota_hero_furion")
 		GameRules:SetStartingGold(9251)
 	end
-	
+end
